@@ -1,0 +1,73 @@
+{
+  "trade_data": [
+    {
+      "category": "水果",
+      "trade_code":"10001",
+      "trade_name":"苹果",
+      "purchasing_price":"1",
+      "selling_price":"2",
+      "trade_inventory":"200"
+    },
+    {
+      "category": "1",
+      "trade_code":"2",
+      "trade_name":"3",
+      "purchasing_price":"4",
+      "selling_price":"5",
+      "trade_inventory":"6"
+    },
+    {
+      "category": "1",
+      "trade_code":"2",
+      "trade_name":"3",
+      "purchasing_price":"4",
+      "selling_price":"5",
+      "trade_inventory":"6"
+    },
+    {
+      "category": "1",
+      "trade_code":"2",
+      "trade_name":"3",
+      "purchasing_price":"4",
+      "selling_price":"5",
+      "trade_inventory":"6"
+    },
+    {
+      "category": "1",
+      "trade_code":"2",
+      "trade_name":"3",
+      "purchasing_price":"4",
+      "selling_price":"5",
+      "trade_inventory":"6"
+    },
+    {
+      "category": "1",
+      "trade_code":"2",
+      "trade_name":"3",
+      "purchasing_price":"4",
+      "selling_price":"5",
+      "trade_inventory":"6"
+    },
+    {
+      "category": "1",
+      "trade_code":"2",
+      "trade_name":"3",
+      "purchasing_price":"4",
+      "selling_price":"5",
+      "trade_inventory":"6"
+    },
+    {
+      "category": "1",
+      "trade_code":"2",
+      "trade_name":"3",
+      "purchasing_price":"4",
+      "selling_price":"5",
+      "trade_inventory":"6"
+    }
+  ],
+  "category_data":[
+    {"category_id":"10","category_name":"水果"},
+    {"category_id":"20","category_name":"食品"},
+    {"category_id":"30","category_name":"饰品"}
+  ]
+}
