@@ -1,1 +1,3 @@
 简单进销存系统
+登录界面使用jQuery编写逻辑，div+css布局；
+主界面使用vue+element-ui编写。
